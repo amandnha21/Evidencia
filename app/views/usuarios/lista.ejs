@@ -1,0 +1,18 @@
+<html>
+	<body>
+		<h1> Usuarios lista </h1>
+
+		<table>
+			<tr>
+				<td>Nome</td>
+				<td>Senha</td>
+			</tr>
+			<%for(var i=0; i<lista.length;i++){%>
+			<tr>			
+				<td><%=lista[i].nome%></td>
+				<td><%=lista[i].senha%></td>					
+			</tr>
+			<%}%>		
+		</table>
+	</body>
+</html>
