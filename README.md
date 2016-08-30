@@ -34,5 +34,5 @@ se abrir a versão do Node seu ambiente está ok, caso contrário revise os pass
 
 **exemplo prático de estrutura** - usuário clicou no botão da view, recebemos informação da rota(routes), a rota chama a DAO respectiva, que por sua vez executa sua função.
 
-## OBS: Para executar o projeto é necessário ter instalado o MYSQL e criar uma base de dados "evidencia" user:root e password: ''.
+## OBS: Para executar o projeto é necessário ter instalado o MYSQL e criar uma base de dados "evidencia" user: root e password: ' '.
 
