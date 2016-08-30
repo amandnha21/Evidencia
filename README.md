@@ -7,7 +7,7 @@ Projeto  Evidencia é uma aplicação Node.js
 Desenvolvida para criação portal e aplicativo mobile
 
 
-## ambiete de desenvolvimento
+## ambiente de desenvolvimento
 
 1 - Instalar Node e NPM ( vem junto com o Node ). https://nodejs.org;
 
