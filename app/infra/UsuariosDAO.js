@@ -7,7 +7,6 @@ UsuariosDAO.prototype.lista = function(callback){
 }
 
 UsuariosDAO.prototype.salvar = function(usuario, callback){
-	console.log(usuario);
 	this._connection.query('insert into usuario set ?', usuario, callback);
 }
 
